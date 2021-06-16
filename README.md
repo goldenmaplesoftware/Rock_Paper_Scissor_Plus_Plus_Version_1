@@ -5,8 +5,8 @@ AUTHOR: JEAN JACOB COMTOIS/ GOLDEN MAPLE SOFTWARE
 DATE OF INCEPTION: FEBRUARY 22 2021
 DATE OF RELEASE: JUNE 15 2021
 VERSION 1.0 (ALPHA)
-WEBSITE OF AUTHOR: goldenmaplesoftware.ca
-GITHUB OF AUTHOR:  https://github.com/goldenmaplesoftware
+WEBSITE OF AUTHOR: www.goldenmaplesoftware.ca
+
 
 
 Conventional rock paper scissors but with a twist,  you have to bet to win.  If you keep
